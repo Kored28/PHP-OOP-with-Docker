@@ -15,3 +15,4 @@ $stripeTransaction = new StripeTransaction();
 
 var_dump($paddleTransaction, $stripeTransaction);
 
+
